@@ -1,6 +1,3 @@
-Aqui está um README bem organizado com base nos seus arquivos Java 👇
-
----
 
 # 📚 Projetos em Java
 
